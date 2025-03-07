@@ -1,0 +1,17 @@
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\bin\Debug\net8.0-windows\Projeto aposentadoria INSS.exe
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\bin\Debug\net8.0-windows\Projeto aposentadoria INSS.deps.json
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\bin\Debug\net8.0-windows\Projeto aposentadoria INSS.runtimeconfig.json
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\bin\Debug\net8.0-windows\Projeto aposentadoria INSS.dll
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\bin\Debug\net8.0-windows\Projeto aposentadoria INSS.pdb
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\obj\Debug\net8.0-windows\Projeto_aposentadoria_INSS.Form1.resources
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\obj\Debug\net8.0-windows\Projeto_aposentadoria_INSS.FormAposentadoria.resources
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\obj\Debug\net8.0-windows\Projeto aposentadoria INSS.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\obj\Debug\net8.0-windows\Projeto aposentadoria INSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\obj\Debug\net8.0-windows\Projeto aposentadoria INSS.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\obj\Debug\net8.0-windows\Projeto aposentadoria INSS.AssemblyInfo.cs
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\obj\Debug\net8.0-windows\Projeto aposentadoria INSS.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\obj\Debug\net8.0-windows\Projeto aposentadoria INSS.dll
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\obj\Debug\net8.0-windows\refint\Projeto aposentadoria INSS.dll
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\obj\Debug\net8.0-windows\Projeto aposentadoria INSS.pdb
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\obj\Debug\net8.0-windows\Projeto aposentadoria INSS.genruntimeconfig.cache
+C:\Users\victo\Desktop\Entrega C# Victor\Projeto-aposentadoria-INSS-C-sharp-master\Projeto aposentadoria INSS\obj\Debug\net8.0-windows\ref\Projeto aposentadoria INSS.dll
